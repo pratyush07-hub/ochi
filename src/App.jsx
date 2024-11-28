@@ -5,7 +5,7 @@ import Markwa from './components/Markwa';
 import About from './components/About';
 import Eye from './components/Eye';
 import Featured from './components/Featured';
-import Footer from './components/footer';
+import footer from './components/footer';
 import LocomotiveScroll from 'locomotive-scroll';
 
 
@@ -22,7 +22,7 @@ const locomotiveScroll = new LocomotiveScroll();
       <About />
       <Eye />
       <Featured />
-      <Footer />
+      <footer />
     </div>
   )
 }

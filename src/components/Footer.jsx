@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Footer() {
+function footer() {
   return (
     <div className="w-full flex h-screen bg-[#F1F1F1] p-12">
         <div className="w-1/2 h-full flex flex-col justify-between tracking-tighter uppercase text-[8vw] leading-[7vw] font-bold font-['Founders Grotesk']">
@@ -39,4 +39,4 @@ function Footer() {
   )
 }
 
-export default Footer
+export default footer
