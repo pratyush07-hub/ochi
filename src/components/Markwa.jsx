@@ -12,5 +12,4 @@ function Markwa() {
     </div>
   )
 }
-
 export default Markwa

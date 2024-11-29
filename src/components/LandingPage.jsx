@@ -14,7 +14,7 @@ function LandingPage() {
              initial={{width:0}}
              animate={{width: "9vw"}}
              transition={{ease: [0.76, 0, 0.24, 1], duration: 0.5}}
-             className="mr-[0.5vw] rounded w-[9vw] h-[5.7vw] bg-green-500 relative top-[1.2vw]"></motion.div>
+             className="mr-[0.5vw] rounded w-[9vw] h-[5.2vw] overflow-hidden relative top-[1.6vw]"><img classNAme="w-full rounded h-auto" src="https://ochi.design/wp-content/uploads/2022/04/content-image01.jpg" alt="" /></motion.div>
             <h1>eye-opening</h1>
         </div>
         <div className="masker uppercase text-[7.5vw] leading-[6vw] tracking-tighter font-bold font-['Founders Grotesk']">
