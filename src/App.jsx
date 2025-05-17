@@ -23,11 +23,11 @@ const locomotiveScroll = new LocomotiveScroll();
       <About />
       <Eye />
       <Featured />
-      
       <Hooter />
     </div>
   )
 }
 
 export default App;
+
 
